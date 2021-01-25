@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974634019042",
+    "firebase_url": "https://awarides-default-rtdb.firebaseio.com",
+    "project_id": "awarides",
+    "storage_bucket": "awarides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974634019042:android:6b9fbd203c5718cd9156bb",
+        "android_client_info": {
+          "package_name": "com.awacomng.awaride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974634019042-b4d12bn2jcq1tod97v7d794h38gsh5g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcSU_iJNB2x4iMhi1L4KzFvMJH8BUxDJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974634019042-b4d12bn2jcq1tod97v7d794h38gsh5g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

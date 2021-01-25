@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>974634019042-qmk0jfbfb869mc0aikc132oh7jcs3q9b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.974634019042-qmk0jfbfb869mc0aikc132oh7jcs3q9b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJgYI96qVjOAdCAwKG2HZy3YKSz5hOy-s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>974634019042</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.awacomng.awaride</string>
+	<key>PROJECT_ID</key>
+	<string>awarides</string>
+	<key>STORAGE_BUCKET</key>
+	<string>awarides.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:974634019042:ios:c235e67dadb5d9889156bb</string>
+	<key>DATABASE_URL</key>
+	<string>https://awarides-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
